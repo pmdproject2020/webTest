@@ -1,0 +1,72 @@
+body{
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    .containerFlex{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        img{
+            box-shadow: 4px 10px 12px  black;
+            border-radius: 100%;
+        }
+    }
+    nav{
+        padding: .5em;
+        text-align: center;
+        margin: 1rem;
+        align-content: space-between;
+        ul{
+            box-shadow: 4px 6px 10px  black;
+            border-radius: 1em;
+            margin: 0px;
+            padding: 0px;
+            border: 3px solid ;
+            display: flex;
+            list-style-type: none;
+            align-content: space-evenly;
+            align-items: center;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content: flex-end;
+            background-color: rgba(0, 0, 0, 0.692);
+    
+            flex-grow: 2px;
+            li{
+                background-color: rgba(0, 0, 0, 0.418);
+                margin: .5em;
+                padding: .5em;
+                border: 1px solid rgba(223, 18, 35, 0.657);
+                a{
+                    text-decoration: none;
+                    color: white;
+                    &:hover{
+                        color: rgb(241, 11, 11);
+                    }
+                }
+                &:hover{
+                    background-color: rgba(209, 5, 32, 0.582);
+                }
+            }
+        }
+    }
+    .welcome{
+        display: flexbox;
+        align-content: center;
+        flex-wrap: wrap;
+        flex-grow: 2;
+        margin: 1.2rem;
+        padding: 2rem;
+        background-color: rgba(0, 0, 0, 0.589);
+        color: white;
+        box-sizing: border-box;
+        border-radius: 6em;
+        box-shadow: 4px 6px 10px  black;
+    }
+}
+html{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapersite.com%2Fimages%2Fwallpapers%2Frocks-2560x1440-stream-sunset-hd-5k-3914.jpg&f=1&nofb=1");
+    //background-image: linear-gradient(121deg,rgba(0, 0, 0, 0.966),rgb(22, 201, 192),rgb(14, 197, 54))
+}
