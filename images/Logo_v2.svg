@@ -1,0 +1,35 @@
+<svg width="386" height="378" viewBox="0 0 386 378" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 3">
+<g id="Frame 2">
+<rect width="386" height="378" fill="url(#paint0_radial)"/>
+<path id="Ellipse 1" d="M350 187C350 152.881 339.163 119.667 319.09 92.265C299.017 64.8632 270.773 44.7275 238.53 34.8329C206.288 24.9383 171.758 25.8096 140.043 37.3182C108.327 48.8268 81.1084 70.3622 62.4078 98.7424C43.7072 127.123 34.5169 160.842 36.1948 194.919C37.8727 228.996 50.3299 261.622 71.7256 287.977C93.1213 314.333 122.321 333.019 155.009 341.275C187.698 349.531 222.142 346.919 253.252 333.825L246.909 318.367C219.074 330.082 188.256 332.419 159.009 325.033C129.762 317.646 103.637 300.927 84.4935 277.346C65.3504 253.766 54.2048 224.574 52.7035 194.085C51.2023 163.596 59.425 133.427 76.1568 108.034C92.8885 82.642 117.242 63.3739 145.618 53.0769C173.995 42.78 204.889 42.0004 233.737 50.8533C262.584 59.7062 287.855 77.722 305.815 102.239C323.775 126.756 333.471 156.473 333.471 187H350Z" fill="url(#paint1_linear)"/>
+<path id="Vector 1" d="M108 74.5V297.5L121 105.5L194.5 207.5L265.5 105.5L329.5 290.5L265.5 65L194.5 189.5L108 74.5Z" stroke="url(#paint2_linear)" stroke-width="12"/>
+<path id="Ellipse 2" d="M193 121C193 147.51 173.077 169 148.5 169C123.923 169 104 147.51 104 121C104 94.4903 123.923 73 148.5 73C173.077 73 193 94.4903 193 121ZM114.028 121C114.028 141.536 129.462 158.183 148.5 158.183C167.538 158.183 182.972 141.536 182.972 121C182.972 100.464 167.538 83.8171 148.5 83.8171C129.462 83.8171 114.028 100.464 114.028 121Z" fill="url(#paint3_linear)"/>
+<path id="D" d="M253.008 198H291.858C302.058 198 311.108 200.1 319.008 204.3C326.908 208.4 333.058 214.45 337.458 222.45C341.858 230.35 344.058 239.7 344.058 250.5C344.058 261.3 341.858 270.7 337.458 278.7C333.058 286.6 326.908 292.65 319.008 296.85C311.108 300.95 302.058 303 291.858 303H253.008V198ZM291.858 290.1C303.558 290.1 312.558 286.55 318.858 279.45C325.258 272.25 328.458 262.6 328.458 250.5C328.458 238.4 325.258 228.8 318.858 221.7C312.558 214.5 303.558 210.9 291.858 210.9H267.258V290.1H291.858Z" fill="url(#paint4_linear)"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(193 189) rotate(90) scale(189 193)">
+<stop offset="0.0001" stop-opacity="0.723958"/>
+<stop offset="0.026455"/>
+<stop offset="0.9999"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint1_linear" x1="105.5" y1="90" x2="300" y2="398.5" gradientUnits="userSpaceOnUse">
+<stop offset="0.116765" stop-color="#C90C0C"/>
+<stop offset="1" stop-color="#0C9600" stop-opacity="0.81"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="218.75" y1="65" x2="218.75" y2="297.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#49F870"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="148.5" y1="73" x2="137.5" y2="215.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EF1623"/>
+<stop offset="1" stop-color="#16C8EF" stop-opacity="0.68"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="295.5" y1="169" x2="295.5" y2="329" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="0.958333" stop-color="#0AD3FF" stop-opacity="0.81"/>
+</linearGradient>
+</defs>
+</svg>
